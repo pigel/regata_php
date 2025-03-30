@@ -1,0 +1,19 @@
+
+структура таблиц
+
+
+coordinates
+id | user     | latitude    | longitude      | speed       | checkin
+
+users
+id | user     | password    | email          | phone       | registered  | last  
+
+messages 
+id | user     | message     | received      
+
+
+
+
+
+
+
